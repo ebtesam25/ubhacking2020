@@ -1,0 +1,60 @@
+{
+    "data": {
+        "visuallyimpaired": 2,
+        "handicapped": 3,
+        "population": 125,
+        "populationbyfloor": [
+            10,
+            20,
+            20,
+            20,
+            20
+        ],
+        "light": [
+            75,
+            72,
+            80,
+            68,
+            77
+        ],
+        "tempa": [
+            72,
+            71,
+            71,
+            74,
+            71,
+            71,
+            71,
+            70,
+            71,
+            71
+        ],
+        "tempt": [
+            71,
+            70,
+            70,
+            74,
+            72,
+            70,
+            70,
+            68,
+            70,
+            71
+        ],
+        "elevatorpop": [
+            3,
+            2,
+            1
+        ],
+        "elevatortype": [
+            "normal",
+            "normal",
+            "disability"
+        ],
+        "elevatorstatus": [
+            "active",
+            "active",
+            "restricted"
+        ]
+    }
+}
